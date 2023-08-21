@@ -1,21 +1,18 @@
-# Hi there! 👋
+# Hi there, I'm Endrick! 👋
 
-![Banner](URL_OF_YOUR_BANNER_IMAGE) 
+<!--![Banner](URL_OF_YOUR_BANNER_IMAGE)-->
 
-I'm [YOUR_NAME], a software engineer who is passionate about creating technology to elevate people and build impactful, meaningful web applications. With a knack for both design and development, I love to create a seamless user experience that looks beautiful inside and out.
+A software engineer who is passionate about creating technology to elevate people and build impactful, meaningful web applications. With a knack for both design and development, I love to create a seamless user experience that looks beautiful inside and out.
 
 ## 🛠️ Stacks
 
-### Languages
 
-![JavaScript](URL_OF_JAVASCRIPT_ICON) JavaScript ![React](URL_OF_REACT_ICON) React ![TypeScript](URL_OF_TYPESCRIPT_ICON) TypeScript ![C#](URL_OF_C#_ICON) .NET Core
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/> React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/> TypeScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="30" height="30"/> .NET Core
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/> PostgreSQL
 
-### Tools and Technologies
-
-- Automation
-- Web Development
-- Back-End Development
-- UI/UX Design
 
 ## 🌱 What I'm passionate about
 
@@ -27,7 +24,8 @@ I'm [YOUR_NAME], a software engineer who is passionate about creating technology
 ## 📫 How to reach me
 
 - **Email:** endricke@gmail.com
-- **LinkedIn:** [YOUR_LINKEDIN_PROFILE](YOUR_LINKEDIN_PROFILE_URL)
-[- **Portfolio:** [Check out what I've been working on!](YOUR_PORTFOLIO_URL)](url)
+<!--! - **LinkedIn:** [YOUR_LINKEDIN_PROFILE](YOUR_LINKEDIN_PROFILE_URL) -->
+<!-- ! - **Portfolio:** [Check out what I've been working on!](YOUR_PORTFOLIO_URL)  -->
+
 
 If you'd like to collaborate on a project, need advice or just want to chat
